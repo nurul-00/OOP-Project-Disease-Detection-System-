@@ -1,0 +1,29 @@
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Tariqur Rahman,22,Male,Tariqur@gmail.com,tariqur123
+Super Admin,30,Other,admin@dds.com,admin123
+Rimu,22,Female,rimu@gmail.com,rimu123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Sonia,22,Female,sonia1@gmail.com,sonia1234
+Super Admin,30,Other,admin@dds.com,admin123
+Tariqur Rahman,21,Male,tariqur63@gmail.com,123454
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Super Admin,30,Other,admin@dds.com,admin123
+Sonia Akter Rimu,22,Female,soniaakter@gmail.com,soniaakter

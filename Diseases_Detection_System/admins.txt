@@ -1,0 +1,3 @@
+Super Admin,30,Other,admin@dds.com,admin123
+Sonia Akter,22,Female,sonia546@gmail.com,sonia546
+Tariqur Rahman,22,Male,tariqur241-15-547@diu.edu.bd,Tariqur547

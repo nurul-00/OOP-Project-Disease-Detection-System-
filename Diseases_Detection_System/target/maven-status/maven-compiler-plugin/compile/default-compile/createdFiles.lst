@@ -1,0 +1,14 @@
+service\UserService.class
+main\Main.class
+model\Person.class
+service\DoctorService.class
+colour\ConsoleColor.class
+service\DiseaseService.class
+service\AdminService.class
+model\Disease.class
+model\Doctor.class
+model\DiseaseInfo.class
+model\User.class
+com\mycompany\diseases_detection_system\Diseases_Detection_System.class
+database\FileHandler.class
+model\Admin.class
